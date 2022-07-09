@@ -1,0 +1,8 @@
+[test1]:
+$test1: 100 780 47 90 50 40 30 78 96 28 100 160 240
+[test2]:
+$test2: 85 30 40 
+[test with spaces]:
+$test with spaces: 130 30 30 870 
+[test70]:
+$test70: 30 90 80 832 90 
